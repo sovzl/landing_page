@@ -10,6 +10,7 @@ html semantic non existent
 delete workarounds
 css redeclarations
 compare it and check for better solutions
+add github pages
 
 
 
