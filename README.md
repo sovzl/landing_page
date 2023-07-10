@@ -1,6 +1,20 @@
 # landing_page
 Task odin landing page
 
+
+Finished it
+took me around 3h
+need to revisit it
+
+html semantic non existent
+delete workarounds
+css redeclarations
+compare it and check for better solutions
+
+
+
+
+
 TOP landing page task 
 
 For this project you’ll be creating an entire web page from a design we’ll provide for you. If you’ve been following along you should have the skills you need to accomplish this, but it may not be easy!
