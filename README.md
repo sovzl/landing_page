@@ -6,6 +6,7 @@ Finished it
 took me around 3h
 need to revisit it
 
+todo
 html semantic non existent
 delete workarounds
 css redeclarations
