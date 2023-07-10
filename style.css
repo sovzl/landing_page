@@ -1,9 +1,150 @@
 * {
     padding: 0;
     margin: 0;
-}
+    font-family: 'Roboto', sans-serif;}
 
 img {
-    max-width: 150px;
-    max-height: 150px;
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 5px;
+}
+
+h1, h3 {
+    color: #f9faf8;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+#content p {
+    font-size: 18px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h2 { 
+    text-align: center;
+    margin: 40px 0;
+}
+
+#header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #1f2937;
+    padding-top: 10px;
+}
+
+#content {
+    background-color: #1f2937;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 290px;
+    padding: 40px 20px 80px 20px;
+}
+#content_left {
+    display: flex;
+    flex-direction: column;
+    flex: 0 0 460px;
+    color: white;
+}
+#signup_content {
+    width: 150px;
+    background-color: #3882F6;
+    color: white;
+    margin-top: 10px;
+    padding: 10px 20px;
+}
+
+#img_hero {
+    min-width: 500px;
+    min-height: 300px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+    padding: 8px;
+    margin-left: 5px;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+ul {
+    display: flex;
+}
+
+button {
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+#card_section {
+    display: flex;
+    gap:  40px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 90px;
+}
+
+.card {
+    flex: 0 0 200px;
+    gap: 20px;
+    font-size: 20px;
+    text-align:start;
+    color: #1f2938;
+}
+
+#quote_section, 
+#footer {
+    background-color:#e5e7eb;
+}
+
+#quote_section {
+    padding: 150px 450px;
+}
+
+#quote_section h3 {
+    font-size: 36px;
+    font-weight: lighter;
+    color: #1f2937;
+}
+#quote_section p {
+    text-align: right;
+}
+
+#calltoaction {
+    display: flex;
+    background-color: #3882F6;
+    justify-content: space-around;
+    align-items: center;
+    margin: 80px 450px;
+    padding: 50px 100px;
+    border-radius: 10px;
+    gap: 20px;
+    color: white;
+}
+
+#signup_bottom {
+    border: 1px solid white;
+    padding: 10px 20px;
+    background-color: #3882F6;
+    color: white;
+}
+
+#footer { 
+    text-align: center;
+    background-color: #1f2937;
+    color: white;
+    padding: 20px;
+    font-size: 18px;
 }
